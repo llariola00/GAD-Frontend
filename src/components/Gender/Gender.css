@@ -1,0 +1,23 @@
+.Gender {
+    min-height: 75vh;
+    max-width: 100vw;
+    background-color: --bs-gray-100;
+}
+
+.genderT-body {
+    max-height: 12.5rem;
+}
+
+.genderQ-body canvas {
+    max-height: 12.5rem;
+}
+
+.dateSelector_gender {
+    min-width: 38rem;
+    outline: #adb5bd solid 1px;
+}
+
+.dateSelector_gender #btnSubmit:hover {
+    background-color: rgba(255, 99, 132, 0.6);
+    border-color: rgba(255, 99, 132, 1);
+}

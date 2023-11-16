@@ -1,0 +1,10 @@
+.eventlist{
+    margin-top: 40px;
+    width: 65%;
+}
+.icon-button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    outline: none;
+}

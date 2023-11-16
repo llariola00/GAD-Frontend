@@ -1,0 +1,23 @@
+.Attendance {
+    min-height: 75vh;
+    max-width: 100vw;
+    background-color: --bs-gray-100;
+}
+
+.SideGraph {
+    min-height: 12.5rem;
+}
+
+.SideGraph canvas {
+    min-height: 10rem;
+}
+
+.dateSelector_attendance {
+    min-width: 38rem;
+    outline: #adb5bd solid 1px;
+}
+
+.dateSelector_attendance #btnSubmit:hover {
+    background-color: rgba(54, 162, 235, 0.6);
+    border-color: rgba(54, 162, 235, 1);
+}
